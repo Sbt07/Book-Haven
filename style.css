@@ -570,7 +570,7 @@ section{
 
 
 .newsletter{
-    background: url(Images/bg5.png) repeat;
+    background: url(bg5.png) repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
